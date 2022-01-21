@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="todo/cover.png" alt="Logo" width="500" height="360">
+    <img src="todo/cover.png" alt="Logo" width="800" height="360">
   <h2 align="center">ToDo Application using containers</h2>
   <h3 align="center">Create a versatile Todo app using (Item/Model) based containers.</h3>
 </div>
