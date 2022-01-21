@@ -6,8 +6,8 @@
 <br />
 <div align="center">
     <img src="todo/1.png" alt="Logo" width="500" height="360">
-  <h2 align="center">Programming Widget Layout</h2>
-  <h3 align="center">Use the gained knowledge to create forms</h3>
+  <h2 align="center">ToDo Application using containers</h2>
+  <h3 align="center">Create a versatile Todo app using (Item/Model) based containers.</h3>
 </div>
 
 
