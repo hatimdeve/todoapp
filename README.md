@@ -180,3 +180,11 @@ this the code.
   
 <!-- ABOUT THE PROJECT -->
 ## MVC Model
+
+       
+ 
+Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
+      </br>
+Project Link: [https://github.com/hatimdeve/funwithlayout](https://github.com/hatimdeve/funwithlayout)
+
+   <p align="right">(<a href="#top">back to top</a>)</p>
