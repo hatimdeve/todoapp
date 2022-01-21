@@ -16,7 +16,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
  <ol class="list-group list-group-numbered">
-     <li class="list-group-item"> <a href="#Experimenting-with-QHBOXLayout">Experimenting with QHBOXLayout </a></li>
+     <li class="list-group-item"> <a href="#Overview">Overview </a></li>
   <li class="list-group-item"> <a href="#Nested-Layouts">Nested Layouts</a> </li>
   <li class="list-group-item"> <a href="#Bug-report-Form">Bug report Form</a> </li>
    <li class="list-group-item"> <a href="#Grid-Layout">Grid Layout</a> </li>
@@ -25,12 +25,12 @@
 
 
 
-<div id="Experimenting-with-QHBOXLayout">
+<div id="Overview">
   
 <!-- ABOUT THE PROJECT -->
-## Experimenting with QHBOXLayout
+## Overview
     
-    Create a project called hbox with the following code:
+    The goal of the **homework** is to create an **Netsted layouts** to manage you tasks. It should have all the features of **main application** such as menues, actions and toolbar. The application must store an **archive** of all the **pending** and **finished** tasks.
 
 ```cpp
 int main(int argc, char* argv[])
