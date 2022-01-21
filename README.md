@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="500" height="360">
+    <img src="todo/1.png" alt="Logo" width="500" height="360">
   <h2 align="center">Programming Widget Layout</h2>
   <h3 align="center">Use the gained knowledge to create forms</h3>
 </div>
