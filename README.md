@@ -173,18 +173,86 @@ this the code.
   
 <!-- ABOUT THE PROJECT -->
 ## Defining a Task
-   
-                                    
+  A **Task** is defined by the following attributes:
+   * A **description:** stating the text and goal for the task like (Buying the milk).
+   * A **finished** boolean indicating if the task is Finished or due.
+   * A **Tag** category to show the class of the task which is reduced to the following values:
+     * work
+     * life
+     * other
+   * Finally, a task should have a DueDate which stores the **Date** planned for the date.
+    </br>
+         When the user create a new task, the application must **pop up** a dialog for the user to get those values. Here is an example ( not mandatory, I prefer you create your own) example:
     
+    
+    
+    
+       <p align="center">
+     <img src="todo/7.png">
+       <p align="center">An example of a dialog to get a new task.</p>
+   </p> 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   * when i add a taks the qcalendar color the item depending on the taks that  i add , we have 3 cases:
+ 
+       1. when i add a today task the color of the item in the calendar becomes blue.
+    
+       2. when i add a pending task the color of the item in the calendar becomes red.
+      
+       3. when i add a finished task the color of the item in the calendar becomes green.
+     
+    
+    
+      <p align="center">
+        <img src="todo/15.png">
+    
+        <img src="todo/16.png">
+    
+     <p align="center">adding today tasks.</p>
+     <img src="todo/17.png">
+    
+        <img src="todo/18.png">
+    
+     <p align="center">adding pending tasks.</p>
+     <img src="todo/20.png">
+    
+        <img src="todo/21.png">
+         <p align="center">adding finished today .</p>
+        
+   </p>
+      <p align="right">(<a href="#top">back to top</a>)</p> 
+     
+    
+       
+     
+     
+     
+     
   <div id="MVC-Model">
   
 <!-- ABOUT THE PROJECT -->
 ## MVC Model
-
-       
+ is a software design pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.
+    
+    
+    
+    
+   * for the view i used qtableview
+     * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
+   * for the model i used QSqlQueryModel
+     * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
+   * for the database i used i local database 
+     * [QSQLITE](https://doc.qt.io/qt-5/sql-driver.html)
  
 Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
       </br>
-Project Link: [https://github.com/hatimdeve/funwithlayout](https://github.com/hatimdeve/funwithlayout)
+Project Link: [https://github.com/hatimdeve/todoapp](https://github.com/hatimdeve/todoapp)
 
    <p align="right">(<a href="#top">back to top</a>)</p>
